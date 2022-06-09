@@ -418,7 +418,7 @@ BP_IoD <- function(df){
 }
 
 
-}
+
 
 ## For Real Sims   # carrying out same actions as above, just for BP values now
 
@@ -713,7 +713,6 @@ clump_counter <- function(df){   #created clump counter function to take a commu
 }
 
 
-Comm_1_clumps <- clump_counter(CommunityMatrix1)
 
 
 
